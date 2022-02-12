@@ -3,22 +3,6 @@
     {
       "id": 1,
       "title": "Neue Solaranalge mit Stromspeicher",
-    },
-    {
-      "id": 2,
-      "energie": "5000",
-    },
-    {
-      "id": 3,
-      "roof": "60",
-    },
-    {
-      "id": 4,
-      "time": "In 1 bis 6 Monaten",
-    },
-    {
-      "id": 5,
-      "old": "Nach 1990",
-    }  
+    }
   ],
 }
